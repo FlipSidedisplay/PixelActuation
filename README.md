@@ -6,6 +6,7 @@ the stepper motor and solenoids to actuate the pixels in order to reach a
 desired display 
 
 The Fall prototype currently has the following characteristics:
+
 -Pixel shape as a triangular prism
 
 -Height of 0.5" with a face width of ~0.4"
