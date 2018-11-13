@@ -7,8 +7,13 @@ desired display
 
 The Fall prototype currently has the following characteristics:
 -Pixel shape as a triangular prism
+
 -Height of 0.5" with a face width of ~0.4"
+
 -A display of 5 x 20 pixels
+
 -Moving carriage of 5 solenoids positioned vertically
+
 -Stepper motor/lead screw linear actuator
+
 -Horizontal movement
